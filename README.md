@@ -78,7 +78,7 @@ The application has:
 
 
 
-## 🔗 API Endpoints
+## API Endpoints
 
 All endpoints are prefixed with the base path: `/product`
 
@@ -93,7 +93,7 @@ All endpoints are prefixed with the base path: `/product`
 
 
 
-## 📝 Example Requests & Responses
+##  Example Requests & Responses
 
 ### 1. Create a Product – `POST /product/add`
 
