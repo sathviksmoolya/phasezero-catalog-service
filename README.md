@@ -9,8 +9,13 @@ git clone https://github.com/sathviksmoolya/phasezero-catalog-service.git
 cd phasezero-catalog-service
 
 Run the Application in windows 
+-------------------------------
 bash -  mvnw.cmd spring-boot:run
-
+--------------------------------
+if command is not recognized then try
+-------------------------------------
+.\mvnw.cmd spring-boot:run
+-----------------------------
 Once started, the app will run on:
 http://localhost:8080
 
